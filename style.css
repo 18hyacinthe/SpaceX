@@ -1,0 +1,25 @@
+body{
+    margin: 0;
+    font-weight: bold;
+    color: #82aaff;
+    text-align: center;
+    font-family: 'Single Day', cursive;
+}
+#hero{
+    background-image:url("gip.gif");
+    background-size: cover;
+    padding: 10px;
+    height: 700px;
+}
+.btn{
+    background: white;
+    border: none;
+    padding: 6px 12px;
+    font-family: inherit;
+    font-size: inherit;
+    color: #82aaff;
+}
+#main-logo{
+    width: 100px;
+    height: 90px;
+}
