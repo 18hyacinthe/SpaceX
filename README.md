@@ -8,7 +8,7 @@ This project was created as part of my learning journey on Scrimba. It consists 
 
 - `index.html`: The main HTML file.
 - `style.css`: The CSS file for styling.
-- `images`: two image files used in the project.
+- `gip.gif`: image file used in the project.
 
 🌐 **Live Demo**
 
